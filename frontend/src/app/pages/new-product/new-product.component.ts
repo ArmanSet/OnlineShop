@@ -40,5 +40,8 @@ export class NewProductComponent implements OnInit, AfterContentChecked {
   ngAfterContentChecked(): void {
     console.log(this.product);
   }
+onSubmit() {
 
+  }
+  
 }
