@@ -47,7 +47,7 @@ Start the backend server before the frontend client.
   7. The backend server is running on [localhost:8080]().
 
 **Frontend**
-  1. Install [Node.js and npm](https://www.npmjs.com/get-npm)
+  1. Install [Node.js and npm version v14.21.3 ](https://www.npmjs.com/get-npm)
   2. `cd frontend`.
   3. Run `npm install`.
   4. Run `ng serve`
